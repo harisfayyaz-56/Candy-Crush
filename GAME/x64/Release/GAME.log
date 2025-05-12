@@ -1,0 +1,70 @@
+﻿  bejewledblitz.cpp
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(746,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(746,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(816,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(930,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(930,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(931,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(931,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(932,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(932,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(933,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(933,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(934,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(934,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(935,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(935,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(936,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(936,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(937,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(937,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(938,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(938,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(939,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(939,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(940,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(940,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(941,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(941,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(942,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(942,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(943,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(943,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(944,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(944,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(951,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(951,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(957,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(957,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(963,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(963,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(969,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(969,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(975,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(975,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(980,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(980,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(986,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(986,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(991,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(991,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(997,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(997,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1002,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1002,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1007,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1007,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1013,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1013,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1018,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1018,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1024,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1024,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1029,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programs\PF\GAME\GAME\bejewledblitz.cpp(1029,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 208 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GAME.vcxproj -> D:\Programs\PF\GAME\x64\Release\GAME.exe
